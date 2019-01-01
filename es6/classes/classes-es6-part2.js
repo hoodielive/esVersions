@@ -4,7 +4,7 @@ class Person {
   }
 
   get name() {
-    // private function 
+    // private function "person.name"
     return this._name.toUpperCase(); 
   }
   set name(value) {
